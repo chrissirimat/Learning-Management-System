@@ -1,4 +1,4 @@
-# Learning-Management-System
+## Learning Management System
 # Project made for COMP3900 at UNSW
 
 A fully functional web application with a React frontend and a JavaScript backend, utilizing Firebase as our project database.
